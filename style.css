@@ -1,4 +1,16 @@
 .register{
-    margin-left: 50%;
-
+    margin-left: 35%;
+    margin-top: 10%;
 }
+.register input{
+    height: 30px;
+    width: 200px;
+}
+.register lable{
+    font-size: large;
+    font-weight: bolder;
+}
+.register input, label{
+    display: block;
+}
+
