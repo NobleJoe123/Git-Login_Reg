@@ -1,6 +1,9 @@
 .register{
     margin-left: 35%;
     margin-top: 10%;
+    border: 2px solid blue;
+    width: 30%;
+    padding: 50px;
 }
 .register input{
     height: 30px;
@@ -12,5 +15,8 @@
 }
 .register input, label{
     display: block;
+}
+.register h1:hover{
+    color: blue;
 }
 
