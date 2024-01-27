@@ -16,7 +16,7 @@
     font-weight: bolder;
 }
 .register input, label{
-    display: block;
+    display: inline;
 }
 .register h1:hover{
     color: forestgreen;
