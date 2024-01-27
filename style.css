@@ -25,16 +25,5 @@
     color: blue;
 }
 .button{
-    font-size: larger;
-    font-weight: bolder;
-    padding: 10px;
-    border-radius: 10px;
-    width: 150px;
-    margin-left: 50px;
-    margin-top: 20px;
-    color: blue;
-}
-.button:hover{
-    color: black;
-    background-color: aliceblue;
+    
 }
