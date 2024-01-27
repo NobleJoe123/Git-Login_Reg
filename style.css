@@ -1,0 +1,26 @@
+.register{
+    margin-left: 35%;
+    margin-top: 5%;
+    background-color: lightgray;
+    width: 30%;
+    padding: 50px;
+    border-radius: 30px;
+}
+.register input{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+}
+.register label{
+    font-size: larger;
+    font-weight: bolder;
+}
+.register input, label{
+    display: block;
+}
+.register h1:hover{
+    color: forestgreen;
+}
+.register h1{
+    color: blue;
+}
