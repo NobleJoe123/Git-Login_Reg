@@ -32,4 +32,10 @@
     width: 150px;
     margin-left: 50px;
     margin-top: 20px;
+    color: blue;
+    background-color: black;
+}
+.button :hover{
+    color: black;
+    background-color: gainsboro;
 }
